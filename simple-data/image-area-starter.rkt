@@ -1,4 +1,4 @@
-
+(require 2htdp/image)
 ;; image-area-starter.rkt
 
 ; 
